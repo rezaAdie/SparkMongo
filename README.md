@@ -1,4 +1,4 @@
-# MongoSpark
+# SparkMongo
 Example Program on how to insert JSON data to MongoDB and query from MongoDB using Java and Spark.
 
 <br />
